@@ -1,0 +1,14 @@
+{
+  "name": "desafio-modyo",
+  "version": "1.0.0",
+  "description": "Prueba técnica para Modyo Colombia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Ramírez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
